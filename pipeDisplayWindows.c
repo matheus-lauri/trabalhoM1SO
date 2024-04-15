@@ -2,9 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
-#include <fcntl.h>
-#include <io.h>
 #include <time.h>
+#include <conio.h>
 
 #define BUFFER_SIZE 1024
 #define PIPE_NAME_1 "\\\\.\\pipe\\esteira1"
