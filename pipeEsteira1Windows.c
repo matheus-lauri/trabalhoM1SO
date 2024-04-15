@@ -33,12 +33,6 @@ int main() {
         return 1;
     }
 
-    int flags = _setmode(_fileno(stdin), _O_BINARY);
-    if (flags == -1) {
-        printf("Falha ao configurar o modo de entrada binário");
-        return 1;
-    }
-
     while (1) {
         qtd++;
         kg += 5;
