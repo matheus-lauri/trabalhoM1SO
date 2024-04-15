@@ -4,4 +4,4 @@ Este trabalho apresenta o desenvolvimento e a avaliação de um sistema de monit
 
 Contexto 
 
-A FoodSec S.A.(empresa fictícia) possui duas esteiras transportadoras por onde passam produtos alimentícios que precisam ser verificados quanto à sua qualidade, peso e quantidade dos itens. A contagem e o peso total dos itens são essenciais para garantir que a produção esteja dentro dos padrões exigidos.
+Uma Indústria de Alimentos de Santa Catarina chamada FoodSec S.A. possui a tarefa de escanear alimentos por meio de câmeras e verificar se os mesmos estão corretos. Os alimentos podem passar por uma das duas esteiras disponíveis. As duas esteiras são controladas por um por um único computador centralizado. Esse computador recebe dados de um sensor em cada uma das esteiras que captura a contagem de itens que são identificados como seguros. A contagem é exibida em um display perto das esteiras (todos os displays são controlados pela mesma função, é apenas uma replicação). 
